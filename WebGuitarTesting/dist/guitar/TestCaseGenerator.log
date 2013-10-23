@@ -1,0 +1,3 @@
+[main] INFO  Plugin: SequenceLengthCoverage
+[main] INFO  Reading EFG
+[main] ERROR helloworld.EFG not found!!!

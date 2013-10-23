@@ -8,7 +8,8 @@
 MEDIAWIKI_PATH=/var/www/mediawiki
 php $MEDIAWIKI_PATH/maintenance/edit.php -s "Quick edit" -m Main_Page < $MEDIAWIKI_PATH/maintenance/faultpages/fault0
 
-website="http://localhost/mediawiki/index.php/Main_Page"
+website="http://localhost/tudu/"
+#website="http://localhost/mediawiki/index.php/Main_Page"
 
 #
 # test case directory 
